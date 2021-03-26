@@ -1,4 +1,4 @@
-.hover__overlay {
+.cover__overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -9,6 +9,6 @@
   transition: opacity 1s ease-in-out;
 }
 
-.hover__overlay:hover {
+.cover__overlay:hover {
   opacity: 0.8;
 }
