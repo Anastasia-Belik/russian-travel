@@ -31,3 +31,10 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph-item/place__paragraph-item.css);
+
+@import url(../blocks/hover/hover.css);
+@import url(../blocks/hover/__background/hover__background.css);
+@import url(../blocks/hover/__overlay/hover__overlay.css);
+@import url(../blocks/hover/__text-container/hover__text-container.css);
+@import url(../blocks/hover/__title/hover__title.css);
+@import url(../blocks/hover/__subtitle/hover__subtitle.css);

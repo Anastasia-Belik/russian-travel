@@ -1,0 +1,11 @@
+.hover__text-container {
+  position: absolute;
+  z-index: 1;
+  max-width: 560px;
+}
+
+@media screen and (max-width: 550px) {
+  .hover__text-container {
+    max-width: 288px;
+  }
+}
