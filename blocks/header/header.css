@@ -3,7 +3,6 @@
   flex-direction: row;
   margin: 28px 48px 0 48px;
   max-width: 1184px;
-  min-height: 52px;
   justify-content: space-between;
 }
 
@@ -16,6 +15,5 @@
 @media screen and (max-width: 425px) {
   .header {
     margin: 16px 16px 0 16px;
-    min-height: 42px;
   }
 }

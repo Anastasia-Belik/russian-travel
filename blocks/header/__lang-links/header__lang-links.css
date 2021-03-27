@@ -3,4 +3,7 @@
   grid-template-columns: repeat(2, min-content);
   gap: 18px;
   align-self: center;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
